@@ -1,0 +1,17 @@
+p {
+  text-align: center;
+  color: darkgoldenrod;
+  font-family: serif;
+  font-size: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: blue;
+  font-family: serif;
+  font-size: 60px;
+}
+
+body {
+  text-align: center;
+}
