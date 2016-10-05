@@ -1,17 +1,18 @@
 p {
   text-align: center;
-  color: darkgoldenrod;
+  color: aquamarine;
   font-family: serif;
   font-size: 20px;
 }
 
 h1 {
   text-align: center;
-  color: blue;
+  color: skyblue;
   font-family: serif;
   font-size: 60px;
 }
 
 body {
   text-align: center;
+  background-image: url("https://i.ytimg.com/vi/JquobII5VjA/maxresdefault.jpg")
 }
