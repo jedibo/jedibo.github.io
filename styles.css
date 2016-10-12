@@ -1,18 +1,18 @@
 p {
   text-align: center;
   color: aquamarine;
-  font-family: serif;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   font-size: 20px;
 }
 
 h1 {
   text-align: center;
-  color: dodgerblue;
-  font-family: serif;
+  color: deepskyblue;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   font-size: 60px;
 }
 
 body {
   text-align: center;
-  background-image: url("https://i.ytimg.com/vi/JquobII5VjA/maxresdefault.jpg")
+  background-image: url("http://www.iwallhd.com/stock/stars-wallpaper-night-sky-stars-background-psdgraphics-camrevs.jpg")
 }
