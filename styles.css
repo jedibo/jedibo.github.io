@@ -16,3 +16,13 @@ body {
   text-align: center;
   background-image: url("http://www.iwallhd.com/stock/stars-wallpaper-night-sky-stars-background-psdgraphics-camrevs.jpg")
 }
+
+#easy {
+  width: 200px;
+  height: 200px;
+  border-radius: 150px;
+  border-color: black;
+  background-color: red;
+  font-size: 50px;
+  color: white;
+}
