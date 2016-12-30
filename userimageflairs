@@ -1,0 +1,101 @@
+/* Addon: User Flair Images */
+
+.flair-eunji {
+background: #FFF url(%%eunji%%) no-repeat;
+background-size: contain;
+border-radius: 5px;
+border: 1px solid #999999;
+color: #000;
+cursor:default;
+font-weight: bold;
+height: 34px;
+line-height: 20px;
+margin-left: 0.3em;
+text-indent: 23px;
+}
+
+.flair-eunseo {
+background: #FFF url(%%eunseo%%) no-repeat;
+background-size: contain;
+border-radius: 5px;
+border: 1px solid #999999;
+color: #000;
+cursor:default;
+font-weight: bold;
+height: 34px;
+line-height: 20px;
+margin-left: 0.3em;
+text-indent: 23px;
+}
+
+.flair-heeu {
+background: #FFF url(%%heeu%%) no-repeat;
+background-size: contain;
+border-radius: 5px;
+border: 1px solid #999999;
+color: #000;
+cursor:default;
+font-weight: bold;
+height: 34px;
+line-height: 20px;
+margin-left: 0.3em;
+text-indent: 23px;
+}
+
+.flair-hyunjoo {
+background: #FFF url(%%hyunjoo%%) no-repeat;
+background-size: contain;
+border-radius: 5px;
+border: 1px solid #999999;
+color: #000;
+cursor:default;
+font-weight: bold;
+height: 34px;
+line-height: 20px;
+margin-left: 0.3em;
+text-indent: 23px;
+}
+
+.flair-jinsol {
+background: #FFF url(%%jinsol%%) no-repeat;
+background-size: contain;
+border-radius: 5px;
+border: 1px solid #999999;
+color: #000;
+cursor:default;
+font-weight: bold;
+height: 34px;
+line-height: 20px;
+margin-left: 0.3em;
+text-indent: 23px;
+}
+
+.flair-mark {
+background: #FFF url(%%mark%%) no-repeat;
+background-size: contain;
+border-radius: 5px;
+border: 1px solid #999999;
+color: #000;
+cursor:default;
+font-weight: bold;
+height: 34px;
+line-height: 20px;
+margin-left: 0.3em;
+text-indent: 23px;
+}
+
+.flair-yeoreum {
+background: #FFF url(%%yeoreum%%) no-repeat;
+background-size: contain;
+border-radius: 5px;
+border: 1px solid #999999;
+color: #000;
+cursor:default;
+font-weight: bold;
+height: 34px;
+line-height: 20px;
+margin-left: 0.3em;
+text-indent: 23px;
+}
+
+/* End Addon */
