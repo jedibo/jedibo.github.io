@@ -1,0 +1,115 @@
+/*MODERATOR TAGS
+----------------*/
+a.author[href$="simplyjcc"]{
+    font-size: 0px;
+    letter-spacing: -10px;
+    color: white;
+}
+a.author[href$="simplyjcc"]:after{
+    content: "Mayor";
+    font-size: 12px !important;
+    color: #cc0000;
+    letter-spacing: normal;
+    margin: 0 5px 0 0;
+}
+.tagline .author[href$="simplyjcc"]:after{
+    font-size: 11px !important;
+}
+
+a.author[href$="keiflower"]{
+    font-size: 0px;
+    letter-spacing: -10px;
+    color: white;
+}
+a.author[href$="keiflower"]:after{
+    content: "Jinsol's P.E. Teacher";
+    font-size: 12px !important;
+    color: #00ff00;
+    letter-spacing: normal;
+    margin: 0 5px 0 0;
+}
+.tagline .author[href$="keiflower"]:after{
+    font-size: 11px !important;
+}
+
+a.author[href$="StorminCorman"]{
+    font-size: 0px;
+    letter-spacing: -10px;
+    color: white;
+}
+a.author[href$="StorminCorman"]:after{
+    content: "Hyunjoo Protector";
+    font-size: 12px !important;
+    color: #daa520;
+    letter-spacing: normal;
+    margin: 0 5px 0 0;
+}
+.tagline .author[href$="StorminCorman"]:after{
+    font-size: 11px !important;
+}
+
+a.author[href$="corruptlawenforcment"]{
+    font-size: 0px;
+    letter-spacing: -10px;
+    color: white;
+}
+a.author[href$="corruptlawenforcment"]:after{
+    content: "ilovlittlgirl";
+    font-size: 12px !important;
+    color: #00ff7f;
+    letter-spacing: normal;
+    margin: 0 5px 0 0;
+}
+.tagline .author[href$="corruptlawenforcment"]:after{
+    font-size: 11px !important;
+}
+
+a.author[href$="TheRazzEffect"]{
+    font-size: 0px;
+    letter-spacing: -10px;
+    color: white;
+}
+a.author[href$="TheRazzEffect"]:after{
+    content: "Loona-fan";
+    font-size: 12px !important;
+    color: #FD8204;
+    letter-spacing: normal;
+    margin: 0 5px 0 0;
+}
+.tagline .author[href$="TheRazzEffect"]:after{
+    font-size: 11px !important;
+}
+
+a.author[href$="FakeImagery"]{
+    font-size: 0px;
+    letter-spacing: -10px;
+    color: white;
+}
+a.author[href$="FakeImagery"]:after{
+    content: "Eunose Lover";
+    font-size: 12px !important;
+    color: #0000ff;
+    letter-spacing: normal;
+    margin: 0 5px 0 0;
+}
+.tagline .author[href$="FakeImagery"]:after{
+    font-size: 11px !important;
+}
+
+a.author[href$="AlyVu"]{
+    font-size: 0px;
+    letter-spacing: -10px;
+    color: white;
+}
+a.author[href$="AlyVu"]:after{
+    content: "Mark's Toy";
+    font-size: 12px !important;
+    color: #ff00ff;
+    letter-spacing: normal;
+    margin: 0 5px 0 0;
+}
+.tagline .author[href$="AlyVu"]:after{
+    font-size: 11px !important;
+}
+
+/* END MOD TAGS */
