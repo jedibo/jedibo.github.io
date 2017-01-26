@@ -1,18 +1,52 @@
-p {
+.title {
+  color: lightgreen;
   text-align: center;
-  color: aquamarine;
-  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   font-size: 20px;
+  border-style: solid;
+  background: black;
 }
 
-h1 {
+.socialmedia {
+  color: lightgreen;
+  font-size: 15px;
   text-align: center;
-  color: deepskyblue;
-  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-  font-size: 60px;
+}
+
+.content {
+  text-align: center;
+  color: lightgreen;
+  font-size: 15px;
+  font-family: lucida sans unicode, "lucida grande", sans-serif;
+  border-style: solid;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+table, tr, td, th {
+  border-style: solid;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding: 3px;
+  
+}
+
+#schedule {
+  color: lightgreen;
+  background-color: black;
+  width: 360px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
 }
 
 body {
+  background-color: black;
+  background-image: url("http://www.pixelstalk.net/wp-content/uploads/2016/04/Stars-wallpaper-HD-desktop.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#youtube {
   text-align: center;
-  background-image: url("http://www.iwallhd.com/stock/stars-wallpaper-night-sky-stars-background-psdgraphics-camrevs.jpg")
 }
